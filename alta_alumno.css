@@ -1,10 +1,4 @@
-/*
-Equipo 5
-Ramirez Guzman Ramiro
-Reyes Magaña Brayan Emmanuel
-Sanchez Loza Montserrat Guadalupe
-Suarez Camarena Kimberly Lizbeth
-*/
+
 * {
     margin: 0;
     padding: 0;
@@ -263,4 +257,5 @@ body {
     .campo-texto {
         flex: 1;
     }
+
 }
