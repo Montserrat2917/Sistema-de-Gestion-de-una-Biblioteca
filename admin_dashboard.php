@@ -1,11 +1,5 @@
 <?php
-// Equipo 5
-/*
-Ramirez Guzman Ramiro
-Reyes Magaña Brayan Emmanuel
-Sanchez Loza Montserrat Guadalupe
-Suarez Camarena Kimberly Lizbeth
-*/
+
 session_start();
 
 if (!isset($_SESSION['usuario'])) {
@@ -76,4 +70,5 @@ $usuario_actual = $_SESSION['usuario'];
         </div>
     </div>
 </body>
+
 </html>
