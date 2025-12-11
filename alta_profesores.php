@@ -1,11 +1,4 @@
 <?php
-/*
-Equipo 5
-Ramirez Guzman Ramiro
-Reyes Magaña Brayan Emmanuel
-Sanchez Loza Montserrat Guadalupe
-Suarez Camarena Kimberly Lizbeth
-*/
 session_start();
 
 // Verificar sesión
@@ -143,4 +136,5 @@ unset($_SESSION['mensaje_error']);
         </div>
     </div>
 </body>
+
 </html>
